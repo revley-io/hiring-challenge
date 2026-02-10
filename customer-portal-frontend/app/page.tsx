@@ -1,5 +1,5 @@
-import { ComponentExample } from "@/components/component-example";
+import { PortalEntry } from "@/components/portal-entry"
 
 export default function Page() {
-return <ComponentExample />;
+  return <PortalEntry />
 }
