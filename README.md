@@ -16,6 +16,7 @@ The objective is to simulate day-to-day work at Revley: interpreting loosely def
    - Aim for a clean, reviewable commit history.
 3. Open a pull request from your branch.
    - Include a concise summary of changes and how you validated them (tests/commands).
+4. Add shrish@revley.ai as collaborator to your fork or make public
 
 ### Running the services
 Terminal session 1: backend
