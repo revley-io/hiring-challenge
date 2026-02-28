@@ -1,6 +1,7 @@
 # Revley hiring challenge
 
-<img width="1241" height="833" alt="image" src="https://github.com/user-attachments/assets/d97b665c-a5e6-46f3-82ae-068fc25368b1" />
+<img width="1364" height="863" alt="image" src="https://github.com/user-attachments/assets/92c58930-0b12-42a8-a8fe-e817a5e41b85" />
+
 
 This repo contains a sample subscription billing system (NestJS) and a customer portal (Next.js). Your goal is to implement a minimal “customer subscription portal” experience that lets a customer view their subscriptions.
 
