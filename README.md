@@ -14,7 +14,7 @@ The objective is to simulate day-to-day work at Revley: interpreting loosely def
 ## Process
 
 ### Git
-1. Fork this repo and create a new branch for your work.
+1. Create a private fork from this repo and create a new branch for your work.
 2. Complete the requirements in **Challenge** below.
    - Aim for a clean, reviewable commit history.
 3. Open a pull request from your branch.
@@ -83,7 +83,7 @@ Describe one enhancement you would propose for the customer portal. This is your
 - Save it as a Markdown file in this repo and include it in the PR.
 
 ## Submission requirements (strict)
-- Open a PR from your fork/branch.
+- Open a PR from your fork.
 - PR description must include:
   - what you changed (brief)
   - how you validated it (commands/tests)
