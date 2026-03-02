@@ -14,12 +14,14 @@ The objective is to simulate day-to-day work at Revley: interpreting loosely def
 ## Process
 
 ### Git
-1. Create a private fork from this repo and create a new branch for your work.
+1. Clone this repo locally.
+2. Create a new **private** GitHub repository under your own account (do not fork).
+3. Add your new private repo as a remote (e.g. `origin`) and push your branch(es).
 2. Complete the requirements in **Challenge** below.
    - Aim for a clean, reviewable commit history.
 3. Open a pull request from your branch.
    - Include a concise summary of changes and how you validated them (tests/commands).
-4. Add shrish@revley.ai as collaborator to your fork
+4. Add shrish@revley.ai as a collaborator on your private repository.
 
 ### Running the services
 Terminal session 1: backend
@@ -83,7 +85,9 @@ Describe one enhancement you would propose for the customer portal. This is your
 - Save it as a Markdown file in this repo and include it in the PR.
 
 ## Submission requirements (strict)
-- Open a PR from your fork.
+- Upload your solution to a **private** GitHub repository under your own account (do not fork).
+- Add shrish@revley.ai as a collaborator on that private repository.
+- Open a PR from your working branch.
 - PR description must include:
   - what you changed (brief)
   - how you validated it (commands/tests)
